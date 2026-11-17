@@ -1,0 +1,22 @@
+{
+  "site": { "title": "CiveNexa Designs", "tagline": "Product designs and clickable prototypes for the Civenexa platform." },
+  "designs": [
+    {
+      "id": "provider-onboarding",
+      "title": "Service provider onboarding",
+      "module": "Service Provider",
+      "domain": "All service domains",
+      "kind": "Prototype + flow map",
+      "status": "Draft v1",
+      "updated": "2026-11-17",
+      "description": "Mobile flow from login and OTP to a verified provider profile: 9 compact steps, built on the live app's look. Includes an automatic walkthrough.",
+      "thumb": "designs/provider-onboarding/thumb.png",
+      "links": [
+        { "label": "Open prototype", "href": "designs/provider-onboarding/", "primary": true },
+        { "label": "Auto walkthrough", "href": "designs/provider-onboarding/?walkthrough" },
+        { "label": "Flow map", "href": "designs/provider-onboarding/flow.png" },
+        { "label": "Flow PDF", "href": "designs/provider-onboarding/flow.pdf" }
+      ]
+    }
+  ]
+}
